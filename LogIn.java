@@ -1,20 +1,4 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 
-/*
- * LogIn.java
- *
- * Created on Aug 11, 2017, 10:42:17 AM
- */
-
-package softwareengineering;
-
-/**
- *
- * @author CCS LAB
- */
 public class LogIn extends javax.swing.JFrame {
 
     /** Creates new form LogIn */
